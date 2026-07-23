@@ -28,6 +28,7 @@ A curated list of Django packages grouped by category, with descriptions in Engl
 | **[Django Axes](https://github.com/jazzband/django-axes/)** | Security middleware to monitor and block brute force attacks. | Middleware de segurança para monitorar e bloquear ataques de força bruta. |
 | **[Django Recaptcha](https://github.com/django-recaptcha/django-recaptcha)** | Integration of Google ReCAPTCHA for Django forms. | Integração do Google ReCAPTCHA para formulários Django. |
 | **[Django Hijack](https://github.com/django-hijack/django-hijack)** | Allows superusers to log in and work on behalf of other users without knowing their credentials. | Permite que superusuários façam login e trabalhem em nome de outros usuários sem saber suas credenciais. |
+| **[Django User Sessions](https://github.com/jazzband/django-user-sessions)** | Store Django sessions in the database with user association. | Armazena sessões do Django no banco de dados com associação ao usuário. |
 
 ## 🛠 Admin Interface & Tools / Interface Admin e Ferramentas
 
@@ -98,6 +99,7 @@ A curated list of Django packages grouped by category, with descriptions in Engl
 | **[Django Debug Toolbar](https://github.com/django-commons/django-debug-toolbar)** | A configurable set of panels that display various debug information. | Um conjunto configurável de painéis que exibem várias informações de depuração. |
 | **[Django Silk](https://github.com/jazzband/django-silk)** | Live profiling and inspection tool for the Django framework. | Ferramenta de perfilamento e inspeção em tempo real para o framework Django. |
 | **[Django Zeal](https://github.com/taobojlen/django-zeal)** | Detects N+1 queries in your app and alerts you during development. | Detecta consultas N+1 em seu app e alerta você durante o desenvolvimento. |
+| **[Django Upgrade](https://github.com/adamchainz/django-upgrade)** | Automate upgrading your Django projects to newer versions. | Automatiza a atualização de seus projetos Django para versões mais recentes. |
 
 ## 🧪 Testing & QA / Testes e Garantia de Qualidade
 
@@ -124,6 +126,7 @@ A curated list of Django packages grouped by category, with descriptions in Engl
 | **[Django Q2](https://github.com/django-q2/django-q2)** | A native task queue, scheduler and worker application (Celery alternative). | Fila de tarefas nativa, agendador e aplicação worker (alternativa ao Celery). |
 | **[Django Channels](https://github.com/django/channels/)** | Extends Django to handle WebSockets and async protocols. | Estende o Django para lidar com WebSockets e protocolos assíncronos. |
 | **[Pillow](https://github.com/python-pillow/Pillow)** | The friendly Python Imaging Library (Required for ImageField). | A biblioteca de imagem amigável do Python (Necessária para ImageField). |
+| **[Sorl Thumbnail](https://github.com/jazzband/sorl-thumbnail)** | Thumbnail generation for Django. | Geração de miniaturas (thumbnails) para Django. |
 
 ## 📦 Ecosystem & Directories / Ecossistema e Diretórios
 
